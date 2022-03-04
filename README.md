@@ -1,5 +1,3 @@
-# nodejs-essentials
-
 <p align="center">
 <h1 align="center">NodeJS - Essentials</h1>
 <h1 align="center">Course by Alex Banks</h1>
