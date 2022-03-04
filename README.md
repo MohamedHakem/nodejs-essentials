@@ -1,6 +1,5 @@
 <p align="center">
-<h1 align="center">NodeJS - Essentials</h1>
-<h1 align="center">Course by Alex Banks</h1>
+<h1 align="center">NodeJS Essentials - Course by Alex Banks</h1>
 </p>
 
 <p align="center">
